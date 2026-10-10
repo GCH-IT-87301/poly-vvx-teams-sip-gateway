@@ -73,7 +73,7 @@ The included HTTP listener is for an isolated recovery network or lab VLAN. It i
 
 ## Firmware and trademarks
 
-Firmware is not included. Obtain firmware from an authorized vendor or support channel and comply with the applicable license. Microsoft, Teams, Poly, Polycom, VVX, HP, and Poly Lens are trademarks of their respective owners. This community documentation is not affiliated with or endorsed by Microsoft or HP.
+Firmware is not included. Obtain firmware from an authorized vendor or support channel and comply with the applicable license. Microsoft, Teams, Poly, Polycom, VVX, HP, and Poly Lens are trademarks of their respective owners. This community documentation is not affiliated with or endorsed by Microsoft nor HP nor Poly/Polycom.
 
 ## Official references
 
