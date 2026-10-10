@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Rename this file to the lower-case MAC without separators, for example 001122aabbcc.cfg. -->
+<!-- Replace the filename with an authorized image for the exact model and hardware revision. -->
+<APPLICATION APP_FILE_PATH="MODEL-CORRECT-FIRMWARE.sip.ld" />

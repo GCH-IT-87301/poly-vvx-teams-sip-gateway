@@ -1,0 +1,27 @@
+# Firmware and binaries
+*.ld
+*.sip.ld
+*.zip
+*.tar
+*.gz
+
+# Secrets and local configuration
+.env
+*.secret
+credentials*
+secrets/
+private/
+
+# Logs and captures
+*.log
+*.pcap
+*.pcapng
+
+# Device-specific config generated from templates
+[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F].cfg
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

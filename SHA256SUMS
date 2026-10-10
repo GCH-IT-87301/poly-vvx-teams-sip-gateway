@@ -1,0 +1,16 @@
+62be68828328d6b280a8ea19138f233f91b98080fbb9769b8ab87637637bb799  poly-vvx-teams-sip-gateway/.gitattributes
+47712ca2e3cf0344fd96918b7ce4328381c39523efe9564278408fdc921c28bb  poly-vvx-teams-sip-gateway/.github/ISSUE_TEMPLATE/bug_report.md
+455f8bc1d7d8843286a7a57fd895666856558366e6aba270adb5ef9b9fdeec50  poly-vvx-teams-sip-gateway/.github/ISSUE_TEMPLATE/model_report.md
+27c4bfd5525921356eae020171173053a60ce928cb16441e60e018fe79c7402c  poly-vvx-teams-sip-gateway/.gitignore
+e5b01b13f3358405e5e34f40881497468b0b48aed1fe5615075c253e2e4fb205  poly-vvx-teams-sip-gateway/CHANGELOG.md
+c9202bca8d8cc12821429300b4b91366de859b97ba080308b972ac492c87c73e  poly-vvx-teams-sip-gateway/CODE_OF_CONDUCT.md
+2c4ae981eec4b98c9a637db0cd343aa7da846231059f673ad9f5fe096123485a  poly-vvx-teams-sip-gateway/CONTRIBUTING.md
+4cf0b58fb2af74fc074d893cbdcbbda7c291715380441e8913a5513483dd0528  poly-vvx-teams-sip-gateway/LICENSE.md
+86c9fce06889c8e9bc35c6ac2d4e0a2d47fcac7dbef3755ee07d3293a1d72f3b  poly-vvx-teams-sip-gateway/README.md
+5540e330c20e27f09955544a28cbf461d733f447aafc0cd390d08ff7bfd0e2bb  poly-vvx-teams-sip-gateway/SECURITY.md
+eb4c9b74ff46c47f8ddb0a2b037e29b8d3c08bb86f037536412a491c85dfd76f  poly-vvx-teams-sip-gateway/docs/runbook.md
+b0133826efa43b67a20bbf5182c12bbdedb58c065dd67c4629f7b8adc71f0972  poly-vvx-teams-sip-gateway/examples/000000000000.cfg.example
+535d852116d3d7f09144baae9341285d47a07c217aac48d51402c7126702de6b  poly-vvx-teams-sip-gateway/examples/MAC.cfg.example
+42994afd990ba5fda58cdbd5eb43a625cbb926fcd50a9e4a2ad349c12cabf643  poly-vvx-teams-sip-gateway/firmware/README.md
+9a25ff38d54d83adc57dee2267b285cb7c7dce3a4f64abb7eed536ce7f4c610b  poly-vvx-teams-sip-gateway/scripts/polyhttpserver.ps1
+2b09c57d7714eb81db1d9d508de1f89fe850692b82009dc19a910ef3c5fe62f0  poly-vvx-teams-sip-gateway/tests/README.md

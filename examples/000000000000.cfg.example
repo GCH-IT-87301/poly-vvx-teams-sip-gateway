@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Optional generic master configuration. Use only after validating the intended model scope. -->
+<APPLICATION APP_FILE_PATH="MODEL-CORRECT-FIRMWARE.sip.ld" />
